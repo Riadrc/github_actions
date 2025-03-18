@@ -24,6 +24,4 @@ jobs:
 
       - name: Run flake8
         uses: py-actions/flake8@v2
-<<<<<<< HEAD
 
- 3eme tentative control_test_yaml
